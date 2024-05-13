@@ -2,7 +2,7 @@
 I'm a student at Washington University in St.Louis studying computer science. I am very interested in Artificial Intelligence, Embedded Systems, and Cloud Computing. My personal interests include virology, music production, table tennis, and basketball!
 
 
-Below are the skills I posses.
+Below are the skills I possess.
 
 - Programming Languages: Python, Java, JavaScript, Swift, Typescript, HTML, CSS
 
