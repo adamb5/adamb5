@@ -10,7 +10,7 @@ Below are the skills I possess.
 - Tools: Visual Studio Code, Xcode, TestFlight, PyCharm, Eclipse, OpenAI, NetBeans, Github, Jupyter
 
 
-- ML/Data Science: numPy, Pandas, Matlab, Matplotlib
+- Machine Learning/Data Science: numPy, Pandas, Matlab, Matplotlib
 
 
 - Software Development: SOLID Principles, Unit Testing, Scrum
