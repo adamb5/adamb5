@@ -4,10 +4,10 @@ I'm a student at Washington University in St.Louis studying computer science. I 
 
 Below are the skills I possess.
 
-- Programming Languages: Python, Java, JavaScript, Swift, Typescript, HTML, CSS
+- Programming Languages: Python, Java, JavaScript, Swift, PHP, Typescript, HTML, CSS
 
 
-- Tools: Visual Studio Code, Xcode, TestFlight, PyCharm, Eclipse, OpenAI, NetBeans, Github, Jupyter
+- Technologies/Frameworks: PyCharm, OpenAI, Git, Jupyter, Docker, Kubernetes, Terraform, Amazon Web Services (AWS), PostgreSQL, React, Node.js, Next.js, Swift, Express.js, MongoDB, REST APIs, MySQL
 
 
 - Machine Learning/Data Science: numPy, Pandas, Matlab, Matplotlib
