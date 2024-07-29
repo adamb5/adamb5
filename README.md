@@ -7,7 +7,7 @@ Below are the skills I possess.
 - Programming Languages: Python, Java, JavaScript, PHP, Typescript, HTML, CSS
 
 
-- Technologies/Frameworks: OpenAI, GitHub, Jupyter, Docker, Kubernetes, Terraform, Amazon Web Services (AWS), PostgreSQL, React, Node.js, Next.js, Swift, Express.js, MongoDB, REST APIs, MySQL
+- Technologies/Frameworks: OpenAI, Git, Jupyter, Docker, Kubernetes, Terraform, Amazon Web Services (AWS), PostgreSQL, React, Node.js, Next.js, Swift, Express.js, MongoDB, REST APIs, MySQL
 
 
 - Machine Learning/Data Science: NumPy, Pandas, PyTorch, TensorFlow, Matlab, Matplotlib
